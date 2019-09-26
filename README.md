@@ -1,0 +1,2 @@
+# Dog-Breed-Classifier
+Third project of the Udacity Machine Learning Engineer Nanodegree program where I have classified 133 dog breeds by experimenting using transfer learning on the ResNet-50 model, creating a custom CNN model in PyTorch, and using the pre-trained VGG-16 model to get a final accuracy of 97% and further, for fun, wrote an algorithm which resembles a given human image to the closest dog breed
